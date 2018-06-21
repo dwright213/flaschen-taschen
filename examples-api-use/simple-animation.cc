@@ -22,8 +22,8 @@
 #include <stdio.h>
 
 // Size of the display.
-#define DISPLAY_WIDTH 45
-#define DISPLAY_HEIGHT 35
+#define DISPLAY_WIDTH 5
+#define DISPLAY_HEIGHT 5
 
 // The 'layer' we're showing the space-invaders in. The background layer
 // in a FlaschenTaschen display is 0. With 1, we're hovering above that.
