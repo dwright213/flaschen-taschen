@@ -88,8 +88,8 @@ int main(int argc, char *argv[]) {
     frames.push_back(CreateFromPattern(socket, invader[0], Color(255, 255, 0)));
     frames.push_back(CreateFromPattern(socket, invader[1], Color(255, 0, 255)));
 
-    const int max_animation_x = 45;
-    const int max_animation_y = 35;
+    const int max_animation_x = 2;
+    const int max_animation_y = 2;
     int animation_x = 0;
     int animation_y = 0;
     int animation_direction = +1;
